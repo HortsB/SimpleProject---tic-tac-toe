@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c313f0db-f172-4c28-b9d9-cded0dab7191" name="Changes" comment="Put X conditions">
+    <list default="true" id="c313f0db-f172-4c28-b9d9-cded0dab7191" name="Changes" comment="Put Y conditions &amp; complete">
       <change beforePath="$PROJECT_DIR$/src/Tictactoe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tictactoe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677768606155</updated>
       <workItem from="1677768607991" duration="4463000" />
-      <workItem from="1677848252666" duration="4000000" />
+      <workItem from="1677848252666" duration="4292000" />
     </task>
     <task id="LOCAL-00001" summary="Integration of display">
       <created>1677775374739</created>
@@ -102,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677872100370</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Put Y conditions &amp; complete">
+      <created>1677872387832</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677872387832</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +159,7 @@
     <MESSAGE value="Porject 1 - tic tac toe" />
     <MESSAGE value="Project 1 - tic tac toe" />
     <MESSAGE value="Put X conditions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Put X conditions" />
+    <MESSAGE value="Put Y conditions &amp; complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Put Y conditions &amp; complete" />
   </component>
 </project>

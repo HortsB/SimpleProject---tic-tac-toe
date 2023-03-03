@@ -107,6 +107,16 @@ public class Tictactoe implements ActionListener{
                 (buttons[8].getText()=="X")){
             xWins(6,7,8);
         }
+        if((buttons[1].getText()=="X")&&
+                (buttons[4].getText()=="X")&&
+                (buttons[7].getText()=="X")){
+            xWins(1,4,7);
+        }
+        if((buttons[3].getText()=="X")&&
+                (buttons[4].getText()=="X")&&
+                (buttons[5].getText()=="X")){
+            xWins(3,4,5);
+        }
         if((buttons[0].getText()=="X")&&
                 (buttons[4].getText()=="X")&&
                 (buttons[8].getText()=="X")){
@@ -132,6 +142,16 @@ public class Tictactoe implements ActionListener{
                 (buttons[5].getText()=="Y")&&
                 (buttons[8].getText()=="Y")){
             yWins(2,5,8);
+        }
+        if((buttons[1].getText()=="Y")&&
+                (buttons[4].getText()=="Y")&&
+                (buttons[7].getText()=="Y")){
+            yWins(1,4,7);
+        }
+        if((buttons[3].getText()=="Y")&&
+                (buttons[4].getText()=="Y")&&
+                (buttons[5].getText()=="Y")){
+            yWins(3,4,5);
         }
         if((buttons[6].getText()=="Y")&&
                 (buttons[7].getText()=="Y")&&
